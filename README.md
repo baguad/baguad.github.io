@@ -1,5 +1,6 @@
 #About Bethany Aguad
 ##baguad.github.io
+![Bethany Aguad Headshot](https://github.com/baguad/baguad.github.io/blob/main/Bethany%20Aguad%20Headshot.jpg)
 
 [Bethany Aguad](https://bethanyaguad.com/about/) has worked in academe, hospitality, and financial services leveraging communication skills and process improvement to solve information problems.
 
