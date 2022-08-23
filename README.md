@@ -1,8 +1,9 @@
 #About Bethany Aguad
 ##baguad.github.io
+
 ![Bethany Aguad Headshot](https://github.com/baguad/baguad.github.io/blob/main/Bethany%20Aguad%20Headshot.jpg)
 
-[Bethany Aguad](https://bethanyaguad.com/about/) has worked in academe, hospitality, and financial services leveraging communication skills and process improvement to solve information problems.
+>[Bethany Aguad](https://bethanyaguad.com/about/) has worked in academe, hospitality, and financial services leveraging communication skills and process improvement to solve information problems.
 
 She is President of the Florida Chapter of the Society for Technical Communication (STC), a former member of the STC Board of Directors, and co-chair of the Education Committee. In her years with STC, she has been a Sigma Tau Chi honoree, received the Distinguished Service Award for Students, co-managed STC’s student outreach initiative, and represented students on the Community Affairs Committee.
 
