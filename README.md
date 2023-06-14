@@ -12,3 +12,5 @@ Bethany has served her local chapter, STC Florida, in many positions, including 
 A graduate of UCF with a B.A. and M.A. in English—Technical Communication, Bethany has received the prestigious Melissa Pellegrin Memorial Scholarship and the Stuart Omans Award for Excellence in Technical Communication.
 
 She currently works as a Technical Documentation Manager at Silent Eight. In her spare time, she produces a Dungeons and Dragons podcast with her husband and friends.
+
+Emma is watching.
