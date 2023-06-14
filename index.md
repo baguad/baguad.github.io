@@ -1,6 +1,7 @@
 # Getting Started with Docs as Code
 
-I am learning "docs as code" through Github.
+I am learning "docs as code" through GitHub using GitHub pages.
+
 
 [Docs as Code Overview](docs-as-code-overview.md)
 
