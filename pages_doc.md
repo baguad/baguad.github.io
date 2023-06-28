@@ -22,4 +22,4 @@ To publish your website, follow these steps:
 You can customize your GitHub Pages website by adding CSS, JavaScript, and other files to your repository. You can also use a Jekyll theme to change the look and feel of your website.
 
 # Note
-This is useful for documentation.
+This is useful for docs-as-code documentation.
